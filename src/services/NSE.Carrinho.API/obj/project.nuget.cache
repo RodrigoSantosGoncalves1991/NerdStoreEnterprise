@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HSXysBL7hFRT1lH8bMhgmfBsntyC7a1P4a/TPmdKuJgNE9L3cebnyYDjozOjyH4nbOzu1v4aDdmyfxrHM7zdtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\OneDrive\\Documentos\\Rodrigo\\ASP.NET Core Enterprise Applications\\NerdStoreEnterprise\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
