@@ -7,6 +7,9 @@ C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.runtimeconfig.dev.json
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -45,6 +48,8 @@ C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -60,7 +65,11 @@ C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.csproj.AssemblyReference.cache
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.GeneratedMSBuildEditorConfig.editorconfig
@@ -76,12 +85,3 @@ C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.pdb
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\obj\Debug\netcoreapp3.1\NSE.Identidade.API.genruntimeconfig.cache
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\MediatR.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.Core.pdb
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\Polly.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\services\NSE.Identidade.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb

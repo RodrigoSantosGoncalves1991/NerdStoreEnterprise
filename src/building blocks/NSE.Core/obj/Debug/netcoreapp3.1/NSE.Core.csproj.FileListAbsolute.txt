@@ -1,10 +1,10 @@
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
 C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb
-C:\Users\rodri\OneDrive\Documentos\Rodrigo\ASP.NET Core Enterprise Applications\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
