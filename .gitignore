@@ -10,6 +10,7 @@
 *.cache
 *.cache
 *.suo
+*.txt
 # Include dlls if they’re in the NuGet packages directory
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
@@ -27,6 +28,7 @@ bin/
 obj/
 Container/
 TestResults/
+netcoreapp3.1/
 ###################
 # Web publish log #
 ###################
